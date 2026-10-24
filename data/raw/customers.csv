@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,city,registration_date
+1001,Maria,Santos,maria.santos@example.com,Manila,2026-01-15
+1002,Juan,Reyes,juan.reyes@example.com,Quezon City,2026-01-20
+1003,Ana,Cruz,ana.cruz@example.com,Cebu City,2026-02-02
+1004,Mark,Garcia,mark.garcia@example.com,Davao City,2026-02-10
+1005,Sofia,Mendoza,sofia.mendoza@example.com,Manila,2026-03-05

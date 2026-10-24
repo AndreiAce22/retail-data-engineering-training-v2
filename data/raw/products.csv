@@ -1,0 +1,6 @@
+product_id,product_name,category,unit_price,stock_quantity
+2001,Wireless Mouse,Electronics,850.0,120
+2002,Bluetooth Headphones,Electronics,1500.0,80
+2003,Smartphone Stand,Accessories,350.0,150
+2004,USB-C Hub,Electronics,1200.0,60
+2005,Portable Charger,Electronics,1800.0,90
